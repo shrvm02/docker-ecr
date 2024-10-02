@@ -10,7 +10,7 @@ on:
 
 env:
   AWS_REGION: ap-northeast-2
-  ECR_REGISTRY: 893915938928.dkr.ecr.us-east-1.amazonaws.com  # aws id
+  ECR_REGISTRY: 893915938928.dkr.ecr.ap-northeast-2.amazonaws.com  # aws id
   ECR_REPOSITORY: web-site
 
 jobs:
